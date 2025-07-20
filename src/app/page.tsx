@@ -22,8 +22,8 @@ const shareTech = Share_Tech({
 
 // Intro messages sequence
 const introMessages = [
-  "ยินดีที่ได้เจอกัน",
-  "นี่คือเว็บไซต์ที่ตั้งใจทำเพื่อคุณคนเดียว",
+  "ยินดีที่ได้เจอนิ้งนะ",
+  "นี่คือเว็บไซต์ที่ตั้งใจทำเพื่อนิ้งคนเดียว",
   "ก่อนอื่นก็…",
   "Happy birthday นะครับ",
   "เรามาดูรูปภาพความทรงจำด้วยกันเถอะ",
@@ -90,7 +90,7 @@ const photoGallery = [
 
 // Final birthday wishes
 const finalWishes = [
-  "Habby birthday นะนิ้ง",
+  "Happy birthday นะนิ้ง",
   "เติบโตขึ้นอีกแล้ว 1 ปี แก่ขึ้นแล้ว 55555 ",
   "ขอให้ความฝันของนิ้งเป็นจริง ",
   "จะคอยซัพพอร์ตเสมอ",
